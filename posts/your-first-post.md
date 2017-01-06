@@ -1,12 +1,12 @@
 <!--
-.. title: Your First Post
-.. slug: your-first-post
-.. date: 2016-08-29 15:29:40 UTC
-.. tags: 
+.. title: Hello World
+.. slug: hello-world
+.. date: 2017-01-06 15:29:40 UTC
+.. tags: nikola
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 -->
 
-Write your post here.
+Hello world! This is my first post using **Nikola**. I'll be sharing my data science discoveries using Jupyter Notebooks that display my Python code and results.
